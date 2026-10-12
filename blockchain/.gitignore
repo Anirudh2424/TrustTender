@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+artifacts/
+cache/
+cache_hardhat/
+coverage/
+coverage.json
+typechain-types/
